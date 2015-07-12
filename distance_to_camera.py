@@ -1,6 +1,3 @@
-# USAGE
-# python distance_to_camera.py
-
 # import the necessary packages
 import numpy as np
 import cv2
@@ -32,7 +29,7 @@ KNOWN_DISTANCE = 24.0
 KNOWN_WIDTH = 11.0
 
 # initialize the list of images that we'll be using
-IMAGE_PATHS = ["images/2ft.png", "images/3ft.png", "images/4ft.png"]
+IMAGE_PATHS = ["images/1.png", "images/1.png", "images/3.png"]
 
 # load the furst image that contains an object that is KNOWN TO BE 2 feet
 # from our camera, then find the paper marker in the image, and initialize
