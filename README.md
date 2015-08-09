@@ -1,4 +1,4 @@
-# Distance Computing
+# OD
 ---
 
 This project is used to compute the distance from a known object in an image to our camera.
